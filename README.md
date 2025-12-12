@@ -1,4 +1,4 @@
-# VRnatomy
+# MedivR
 
 An immersive AR/VR app offering interactive 3D exploration of human anatomy for enhanced learning and visualization.
 
